@@ -50,7 +50,11 @@ export default function Navbar() {
     <header>
       <nav>
         <div className="logo">
-          <img src = "public/cool-anime-girl-pfp-hu-tao-6cjtrrhyvr2g24ik.jpg" alt="Logo" className = "logo-mark"/>
+          <img
+            src="/cool-anime-girl-pfp-hu-tao-6cjtrrhyvr2g24ik.jpg"
+            alt="Logo"
+            className="logo-mark"
+          />
           <span className="logo-text">Priya Hariyale</span>
           <span className="status-pill">
             <span className="status-dot"></span>open to work
