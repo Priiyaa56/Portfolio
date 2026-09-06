@@ -2,25 +2,18 @@ import { useReveal } from "../hooks/useReveal.js";
 
 const projectsData = [
   {
-    num: "01",
-    name: "Weather App",
-    desc: "A responsive Weather app with search and genre filters.",
-    tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/Priiyaa56/weather-app", 
-  },
-  {
     num: "02",
     name: "Portfolio",
     desc: "Personalized Portfolio that includes various react feautures and animations",
     tech: ["React+vite", "CSS", "Html"],
-    github: "https://github.com/Priiyaa56/portfolio-react",
+    github: "https://github.com/Priiyaa56/Portfolio",
   },
   {
     num: "03",
     name: "Tic Tac Toe Game",
     desc: "tic tac toe responsive game ",
     tech: ["html", "css", "javascript"],
-    github: "https://github.com/Priiyaa56/tic-tac-toe", 
+    github: "https://github.com/Priiyaa56/tictactoe-game", 
   },
   {
     num: "04",
